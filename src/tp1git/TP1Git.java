@@ -9,6 +9,8 @@ package tp1git;
  *
  * @author lcarri01
  */
+//C'est peut-être toi l'auteurmais c'est moi le meilleur bruh
+//Et ma souris elle fait le tapin
 public class TP1Git {
 
     /**
